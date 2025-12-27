@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through Insta raja_pratyush
 
 <!---
 Pratyushrj18/Pratyushrj18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
